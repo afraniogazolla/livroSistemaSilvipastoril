@@ -1,4 +1,4 @@
-![alt text]([https://github.com/afraniogazolla/livroSistemaSilvipastoril/blob/main/Capa.jpg])
+![alt text](https://github.com/afraniogazolla/livroSistemaSilvipastoril/blob/main/Capa.jpg)
 
 # [Livro] Fitossociologia de espécies arbóreas em sistemas agrossilvipastoris no municílivroSistemaSilvipastoril/blob/f6fe24a1e21798c4e521375000341156cb647e70/Capa2.pngpio de Matinha, região da baixada maranhense
 
