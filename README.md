@@ -2,7 +2,7 @@
 
 # [Livro] Fitossociologia de espécies arbóreas em sistemas agrossilvipastoris no município de Matinha, região da baixada maranhense.
 
-Livro publicado em 2022. ISBN 978-65-00-48314-7, registrado junto a Câmara Brasileira do Livro (CBL), e publicado no formato PDF no GitHub.
+Livro publicado em 2022. **ISBN 978-65-00-48314-7**, registrado junto a Câmara Brasileira do Livro (CBL), e publicado no formato PDF, free no GitHub.
 
 ## Resumo:
 
