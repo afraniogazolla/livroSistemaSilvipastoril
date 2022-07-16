@@ -1,6 +1,6 @@
 ![alt text](https://github.com/afraniogazolla/livroSistemaSilvipastoril/blob/main/Capa.jpg)
 
-# [Livro] Fitossociologia de espécies arbóreas em sistemas agrossilvipastoris no município de Matinha, região da baixada maranhense.
+# [Livro] Capim-marandu e babaçu em sistema silvipastoril
 
 Livro publicado em 2022. **ISBN 978-65-00-48314-7**, registrado junto a Câmara Brasileira do Livro (CBL), e publicado no formato PDF, free no GitHub.
 
